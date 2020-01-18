@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/DeferredDecals/_DeferredDecals.unity
+  isLoaded: 1
+  isActive: 1

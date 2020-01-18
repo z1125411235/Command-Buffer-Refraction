@@ -1,0 +1,3 @@
+unityRebuildLibraryVersion: 10
+unityForwardCompatibleVersion: 39
+unityStandardAssetsVersion: 0
